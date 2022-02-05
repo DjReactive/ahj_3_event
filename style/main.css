@@ -1,0 +1,1 @@
+body{font-family:Arial;color:#999}#board{display:flex;flex-wrap:wrap;width:500px;justify-content:center}#board,.cell{border:1px solid #000}.cell{width:100px;height:100px;margin:10px;background-color:#eee;text-align:center;line-height:100px}#counter,.image{width:100%}#counter{color:#000}
